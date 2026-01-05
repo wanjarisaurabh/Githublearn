@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hhhhhh
 
 hellow afjjdjdjd
@@ -6,5 +5,3 @@ kjkjdj
 NJJkjd
 JIJKIJKJKJ
 jkj
-=======
->>>>>>> parent of 02a4b25 (saurabh wanjari -2)
